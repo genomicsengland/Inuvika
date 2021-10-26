@@ -1,0 +1,83 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 22661257800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestHooks.begininingOfTest(Scenario)"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Validation Performed for Field in covid_test_results table against the Data Dictionary",
+        "description": "",
+        "id": "validation-performed-for-covid-test-results-table-against-the-data-dictionary;validation-performed-for-field-in-covid-test-results-table-against-the-data-dictionary",
+        "after": [
+          {
+            "result": {
+              "duration": 36701,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestHooks.afterScenario()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1600900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "TestHooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4761965900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user launches the Inuvika application",
+            "match": {
+              "location": "AppStepDefs.theUserLaunchesTheInuvikaApplication()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 21660754301,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user is logged into Inuvika",
+            "match": {
+              "location": "AppStepDefs.theUserIsLoggedIntoInuvika()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Validation Performed for covid_test_results table against the Data Dictionary",
+    "description": "",
+    "id": "validation-performed-for-covid-test-results-table-against-the-data-dictionary",
+    "keyword": "Feature",
+    "uri": "C:/Users/Admin/IdeaProjects/ngis-endtoend-tests/Inuvika_Test/src/test/Resources/features/Inuvika.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Inuvika_Test"
+      }
+    ]
+  }
+]
