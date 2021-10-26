@@ -1,5 +1,0 @@
-#APP URL (If we have more than one urls to be used, we have to add accordingly). Any modifications here accordingly incorporated in AppConfig.java
-APP_URL=https://re-preprod-ovd.gel.zone/ovd/
-APP_USERNAME=testest23ml
-APP_PASSWORD=xL88zwvD2020
-#ANY OTHER APP SPECIFIC CONFIGURATIONS CAN BE ADDED HERE (LIKE LOCATIONS TO ANY DATA REFERENCE...)
